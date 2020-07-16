@@ -38,6 +38,7 @@ public class UserServiceTest {
 
         doReturn(users).when(userRepositoryMock).getAllUsers();
         List<User> results = userService.getAllUsers();
+        System.out.println("Hello Nandu this is jenkins test");
         Assert.assertNotNull(results);
         Assert.assertEquals(4,results.size());
 
