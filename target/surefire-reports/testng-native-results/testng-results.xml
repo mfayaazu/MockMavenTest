@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="277" started-at="2019-10-27T13:03:18 CET" finished-at="2019-10-27T13:03:19 CET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="277" started-at="2019-10-27T13:03:18 CET" finished-at="2019-10-27T13:03:19 CET">
+      <class name="com.fayaaz.ali.Integration.UserManagerITTest">
+        <test-method status="PASS" signature="SetUpClass()[pri:0, instance:com.fayaaz.ali.Integration.UserManagerITTest@39fb3ab6]" name="SetUpClass" is-config="true" duration-ms="237" started-at="2019-10-27T13:03:18 CET" finished-at="2019-10-27T13:03:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpClass -->
+        <test-method status="PASS" signature="shouldReturnAnInstanceofUserManager()[pri:0, instance:com.fayaaz.ali.Integration.UserManagerITTest@39fb3ab6]" name="shouldReturnAnInstanceofUserManager" duration-ms="2" started-at="2019-10-27T13:03:19 CET" finished-at="2019-10-27T13:03:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnAnInstanceofUserManager -->
+        <test-method status="PASS" signature="shouldReturnListOfAllUsersWhenGetAllUsersCalled()[pri:0, instance:com.fayaaz.ali.Integration.UserManagerITTest@39fb3ab6]" name="shouldReturnListOfAllUsersWhenGetAllUsersCalled" duration-ms="13" started-at="2019-10-27T13:03:19 CET" finished-at="2019-10-27T13:03:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnListOfAllUsersWhenGetAllUsersCalled -->
+        <test-method status="PASS" signature="shouldReturnTrue()[pri:0, instance:com.fayaaz.ali.Integration.UserManagerITTest@39fb3ab6]" name="shouldReturnTrue" duration-ms="0" started-at="2019-10-27T13:03:19 CET" finished-at="2019-10-27T13:03:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnTrue -->
+        <test-method status="PASS" signature="TearDownClass()[pri:0, instance:com.fayaaz.ali.Integration.UserManagerITTest@39fb3ab6]" name="TearDownClass" is-config="true" duration-ms="0" started-at="2019-10-27T13:03:19 CET" finished-at="2019-10-27T13:03:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownClass -->
+      </class> <!-- com.fayaaz.ali.Integration.UserManagerITTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+com/fayaaz/ali/services/UserServiceTest.class
+com/fayaaz/ali/repositories/UserRepositoriesTest.class
+com/fayaaz/ali/AppTest.class
+com/fayaaz/ali/Integration/UserManagerITTest.class
+com/fayaaz/ali/managers/UserManagerTest.class
+com/fayaaz/ali/CalculatorTest.class
